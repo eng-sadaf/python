@@ -1,7 +1,7 @@
 indentation
 variables
 comments
-casting( fixing the data type)
+casti`ng( fixing the data type)
 data types
 numbers
 casting

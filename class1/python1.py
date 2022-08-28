@@ -61,3 +61,4 @@ a = "Hello, World!"
 print(len(a))  #length of a string
 txt = "The best things in life are free!"
 print("free" in txt)  #To check if a certain character is present in a string
+print("Pakistan zinda bad!")
