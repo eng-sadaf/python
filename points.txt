@@ -1,7 +1,0 @@
-indentation
-variables
-comments
-casti`ng( fixing the data type)
-data types
-numbers
-casting
