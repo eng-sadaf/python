@@ -1,3 +1,0 @@
-In python you can create arcade games.
-In python you can create adventure games, and puzzle games. 
-In python you can create code of classic games.
