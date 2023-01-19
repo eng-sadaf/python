@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Siamese cat
 Persion cat
+=======
+Siamese cat
+Persion cat
+>>>>>>> 24704871acbe67042acd8a67c478b3d536b16ef6
 Scottish fold
